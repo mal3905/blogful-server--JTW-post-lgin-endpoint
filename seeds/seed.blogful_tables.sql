@@ -1,4 +1,4 @@
-BEGIN;
+
 
 TRUNCATE
   blogful_comments,
@@ -144,4 +144,4 @@ INSERT INTO blogful_comments (
     4
   );
 
-COMMIT;
+
